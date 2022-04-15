@@ -1,0 +1,21 @@
+{
+    "employeeData" :[
+        {
+            "name": "Ajay",
+            "age": 25,
+            "salary" : 123
+        },
+
+        { "name": "vijay",
+            "age": 26,
+            "salary" : 1234
+       
+        },
+        {
+
+        "name": "sam",
+        "age": 27,
+        "salary" : 1235
+        }
+    ]
+}
